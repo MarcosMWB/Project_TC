@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sistema_TC</string>
+    <string name="clientes">Clientes</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="calculadora">Calculadora</string>
+</resources>
