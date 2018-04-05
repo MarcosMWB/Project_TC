@@ -12,4 +12,5 @@ public class Client {
         this.balance = balance;
         this.order = order;
     }
+
 }
