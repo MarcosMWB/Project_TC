@@ -18,6 +18,8 @@ public class Order {
             System.out.println("Quentinha pequena: " + notes);
         if(size == 2)
             System.out.println("Quentinha grande: " + notes);
+        else
+            System.out.println("Invalid!");
     }
 
 }
